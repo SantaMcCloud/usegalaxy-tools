@@ -232,3 +232,7 @@ tools:
   owner: iuc
 - name: name2taxid
   owner: iuc
+- name: mash_paste
+  owner: iuc
+- name: mash_dist
+  owner: iuc
