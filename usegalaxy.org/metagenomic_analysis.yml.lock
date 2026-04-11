@@ -802,6 +802,7 @@ tools:
 - name: checkm_tree
   owner: iuc
   revisions:
+  - 5e445adeff70
   - 626ab1058170
   - ce3fd529a6ec
   - d030ce59f075
@@ -992,6 +993,13 @@ tools:
   owner: iuc
   revisions:
   - b0dbddc7a288
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: cami_amber_convert
+  owner: iuc
+  revisions:
+  - 848594e0be6a
+  - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber_convert
