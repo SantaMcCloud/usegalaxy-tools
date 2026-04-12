@@ -55,6 +55,7 @@ tools:
 - name: qiime2__feature_table__summarize
   owner: q2d2
   revisions:
+  - 41e9af5ca46b
   - 4d8369756ee6
   - d0f2249afe30
   tool_panel_section_id: qiime_2
