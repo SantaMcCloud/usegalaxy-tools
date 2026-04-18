@@ -254,6 +254,7 @@ tools:
 - name: bamtools_split_tag
   owner: iuc
   revisions:
+  - a0014762e2ee
   - e30af4e78cd3
   - e9b9c489aacc
   tool_panel_section_id: sam_bam

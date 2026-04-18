@@ -97,6 +97,7 @@ tools:
 - name: hyphy_cfel
   owner: iuc
   revisions:
+  - 34d2e58b8a1f
   - 3d4ea0544af1
   - 5b63871000c9
   - 643be54bef90
@@ -112,6 +113,7 @@ tools:
   revisions:
   - 079ea2eb9ae4
   - 3ea647006f17
+  - 4c52eab912ea
   - 6569d04885e5
   - 6761212b7f1d
   - 9ce3d6d4bd0e
@@ -326,6 +328,7 @@ tools:
   - b0b16acfcbe3
   - b82429e9c6a9
   - d6f4ff2aed07
+  - e46726cd0c9e
   - ec499ddce7a9
   tool_panel_section_id: hyphy
   tool_panel_section_label: HyPhy
@@ -335,6 +338,7 @@ tools:
   - 00b4cf477625
   - 051642420aec
   - 056a5b14721d
+  - 07774580b606
   - 1527f00ddf7f
   - 188452adcaa0
   - 23b9bd244670
