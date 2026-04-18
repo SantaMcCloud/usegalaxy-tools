@@ -207,8 +207,8 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
-  - 0e07bc110728
   - 099a77735731
+  - 0e07bc110728
   - 4f85da43b40c
   - b095c69eab5b
   - b0f07e3d6f07
@@ -616,6 +616,7 @@ tools:
   - 59d308975e63
   - 6d5c8a6ceea0
   - eaa563bd535a
+  - f2625d1efadd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: prodigal
@@ -634,6 +635,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
