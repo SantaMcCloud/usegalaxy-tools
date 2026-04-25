@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -385,6 +386,7 @@ tools:
   - 36ce83a739f2
   - 408ece2e4647
   - 75b4a2298714
+  - 8e422c873d02
   - 936a1edffce8
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
@@ -438,6 +440,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly
