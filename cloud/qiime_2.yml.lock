@@ -8,6 +8,7 @@ tools:
   revisions:
   - 1a13e87462a0
   - 7f656fb2e7b6
+  - 9d4d7f37ba01
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__demux__emp_paired
@@ -69,6 +70,7 @@ tools:
 - name: qiime2__diversity__core_metrics_phylogenetic
   owner: q2d2
   revisions:
+  - 4fe98252a16f
   - 7fc930fc43cf
   - 9d7dd5419c37
   tool_panel_section_id: qiime_2
