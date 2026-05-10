@@ -8,6 +8,7 @@ tools:
   revisions:
   - 1a13e87462a0
   - 7f656fb2e7b6
+  - 9d4d7f37ba01
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__demux__emp_paired
