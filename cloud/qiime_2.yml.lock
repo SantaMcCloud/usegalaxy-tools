@@ -22,6 +22,7 @@ tools:
   revisions:
   - 52a1f79f0941
   - 8a0db69428c7
+  - 95475922280e
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__demux__emp_single
@@ -55,6 +56,7 @@ tools:
 - name: qiime2__feature_table__summarize
   owner: q2d2
   revisions:
+  - 41e9af5ca46b
   - 4d8369756ee6
   - d0f2249afe30
   tool_panel_section_id: qiime_2

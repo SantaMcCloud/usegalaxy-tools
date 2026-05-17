@@ -54,6 +54,7 @@ tools:
   owner: iuc
   revisions:
   - 00e3b4ef7e0c
+  - 45f6d77d37b7
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct
@@ -228,6 +229,7 @@ tools:
   revisions:
   - 705d26fbea02
   - 9f306361a58e
+  - ce4bfce70e64
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
