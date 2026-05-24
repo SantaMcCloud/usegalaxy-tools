@@ -49,6 +49,7 @@ tools:
   owner: q2d2
   revisions:
   - 40c226302c86
+  - 92bb3663bb96
   - 9857be21dcaf
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
@@ -112,6 +113,7 @@ tools:
   owner: q2d2
   revisions:
   - 22bfda174157
+  - 3a8c645430a2
   - 6d56299524df
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
