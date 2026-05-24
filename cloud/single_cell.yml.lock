@@ -66,6 +66,7 @@ tools:
   - 83609ef746e9
   - 8b9bf8b5157a
   - cfaf5a405371
+  - d99a178d1ab5
   - e1c3c2f2a834
   - f843b9afd94e
   tool_panel_section_id: single_cell
@@ -282,6 +283,7 @@ tools:
   revisions:
   - 27c054e8d949
   - 3b5ef3b00cdd
+  - a8d291df615d
   - c0a80a16560f
   - c5d3684f7c4c
   - d86cb2ce311b
