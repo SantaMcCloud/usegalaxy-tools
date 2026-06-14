@@ -6,6 +6,7 @@ tools:
 - name: staramr
   owner: iuc
   revisions:
+  - 146b508457e8
   - 6d5c8a6ceea0
   - eaa563bd535a
   tool_panel_section_id: annotation
@@ -25,6 +26,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -77,6 +79,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -132,6 +135,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3
