@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -394,6 +395,7 @@ tools:
   revisions:
   - 0393c0415171
   - 0fe699ced54f
+  - 10dc0f5a82e2
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a

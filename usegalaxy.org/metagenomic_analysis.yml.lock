@@ -237,6 +237,7 @@ tools:
   - 3a89c3f99f3d
   - 4d89978c6188
   - 5b5a7af9fbb4
+  - 60cd35f37c0a
   - 63f86089423e
   - 65db807336bc
   - 705d26fbea02
@@ -298,6 +299,7 @@ tools:
   - 04c15826a0b8
   - 0776d824d896
   - 39638e0aff59
+  - 4bba91a89457
   - 5fe3edf19b9c
   - 75403243703a
   - 8c202e741d68
@@ -343,6 +345,7 @@ tools:
   - 0a1224c4b781
   - 19299bb1c6af
   - 213a3fda0b91
+  - 256e7a119a95
   - 390bc2645138
   - 4cc834cce4fb
   - 7d28da5e9e27
@@ -468,6 +471,7 @@ tools:
 - name: staramr
   owner: nml
   revisions:
+  - 15a4fff208e4
   - 2fd4d4c9c5c2
   - 3548a93b39c1
   - 3b22de20bd4b
@@ -599,6 +603,7 @@ tools:
 - name: metabat2
   owner: iuc
   revisions:
+  - c63e45a190b5
   - eb50e7eca3dc
   - f375b4f6ef57
   tool_panel_section_id: metagenomic_analysis
@@ -694,11 +699,13 @@ tools:
   - 847f433f202b
   - b6a38f6222af
   - c0101c72b8af
+  - eed716573aba
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_plot_ordination
   owner: iuc
   revisions:
+  - 2715e89adff4
   - 32f892954ef6
   - 5007bc8a3d90
   - bbd9d1022144
@@ -727,6 +734,7 @@ tools:
   - 7209f32a9e9d
   - 97b1540b4830
   - c30adf839acd
+  - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: das_tool
@@ -739,6 +747,7 @@ tools:
   owner: iuc
   revisions:
   - 027297969224
+  - bb45f97b9579
   - bcb8dc01f296
   - f23a0598b4bc
   tool_panel_section_id: metagenomic_analysis
@@ -757,6 +766,7 @@ tools:
   - 3693acdbf0d6
   - 3f32eb89d482
   - a32ee0bb028b
+  - e4fdb6e48445
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_plot
@@ -764,6 +774,7 @@ tools:
   revisions:
   - 0ac2ba0b0d81
   - 9916308301da
+  - bfbfffa0fd9d
   - ca5846873a2e
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -772,6 +783,7 @@ tools:
   revisions:
   - 1d9365ace97d
   - 5466420816b9
+  - 61b0b25c50cb
   - 82caa8ed507c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -789,6 +801,7 @@ tools:
   - 03c18e927a7e
   - 407e50329077
   - 7b705d847810
+  - bd631c7b95e3
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_tetra
@@ -796,12 +809,14 @@ tools:
   revisions:
   - 0061483faf7d
   - 46bc08145439
+  - 81af66339b05
   - d0d9e52a46b8
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_tree
   owner: iuc
   revisions:
+  - 5e445adeff70
   - 626ab1058170
   - ce3fd529a6ec
   - d030ce59f075
@@ -819,6 +834,7 @@ tools:
   owner: iuc
   revisions:
   - 0f5f7fa9c08f
+  - 24313e0ff049
   - 304ac5b49dea
   - 66acaec9f386
   tool_panel_section_id: metagenomic_analysis
@@ -826,6 +842,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 27ac516ba719
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
@@ -849,6 +866,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
@@ -863,6 +881,7 @@ tools:
 - name: concoct_coverage_table
   owner: iuc
   revisions:
+  - 6a9c82cc3448
   - fd31cd168efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -876,12 +895,14 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -962,6 +983,7 @@ tools:
   revisions:
   - 315c2ed31af1
   - 3a7f73d638ba
+  - 8065e0028a60
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: defense_finder
@@ -973,6 +995,7 @@ tools:
 - name: iphop_predict
   owner: ufz
   revisions:
+  - be0d13020aec
   - d357350b6da0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -992,6 +1015,13 @@ tools:
   owner: iuc
   revisions:
   - b0dbddc7a288
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: cami_amber_convert
+  owner: iuc
+  revisions:
+  - 848594e0be6a
+  - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber_convert
