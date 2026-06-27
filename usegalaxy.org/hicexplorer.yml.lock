@@ -24,6 +24,7 @@ tools:
 - name: hicexplorer_chicexportdata
   owner: bgruening
   revisions:
+  - 0671a38a29d5
   - 163fd744e235
   - 1a31e75e979e
   - 23b8d6b8960c
@@ -37,6 +38,33 @@ tools:
   - '920526260066'
   - b9ab56aecd18
   - f47ac4a0b337
+  tool_panel_section_id: hicexplorer
+  tool_panel_section_label: HiCExplorer
+- name: hicexplorer_chicqualitycontrol
+  owner: bgruening
+  revisions:
+  - 9ea228a9afc8
+  - a63e9713c39d
+  - b892fa1fcaec
+  - f6a169b5e43b
+  tool_panel_section_id: hicexplorer
+  tool_panel_section_label: HiCExplorer
+- name: hicexplorer_chicsignificantinteractions
+  owner: bgruening
+  revisions:
+  - 45a386d18509
+  - 640e0e45518a
+  - f8320df1866b
+  - ff1af7bac1cb
+  tool_panel_section_id: hicexplorer
+  tool_panel_section_label: HiCExplorer
+- name: hicexplorer_chicviewpoint
+  owner: bgruening
+  revisions:
+  - 37125838e360
+  - 40fee49bc6c3
+  - c4ed35f4f77f
+  - f881c94fb3b3
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_chicqualitycontrol
@@ -125,6 +153,7 @@ tools:
   revisions:
   - 3a6a5381db36
   - 4401ed529d2c
+  - 4630448a0d88
   - 87eb9c58cd19
   - a315574104c6
   tool_panel_section_id: hicexplorer
@@ -323,6 +352,7 @@ tools:
   revisions:
   - 1d6af10874d5
   - 36dfa2825a59
+  - 86958f9bec1b
   - d74cf4a61d65
   - f81750434d70
   tool_panel_section_id: hicexplorer
