@@ -33,6 +33,7 @@ tools:
   - 29662f643859
   - 5561a1193611
   - 60698466facd
+  - b03f8fcbd240
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
 - name: mummer_mummer
@@ -67,6 +68,7 @@ tools:
 - name: mmseqs2_easy_linclust_clustering
   owner: iuc
   revisions:
+  - 1bc9b91a91fd
   - b174c3405549
   tool_panel_section_id: multiple_alignments
   tool_panel_section_label: Multiple Alignments
