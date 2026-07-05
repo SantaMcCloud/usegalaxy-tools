@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -31,6 +32,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -56,6 +58,7 @@ tools:
 - name: abricate
   owner: iuc
   revisions:
+  - 31f58ec0459a
   - 3f3e247c053d
   - c2ef298da409
   tool_panel_section_id: annotation
@@ -77,6 +80,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - f421fd0c42ea
   - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
