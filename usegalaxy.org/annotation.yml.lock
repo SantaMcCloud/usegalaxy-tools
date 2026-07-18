@@ -207,8 +207,8 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
-  - 0e07bc110728
   - 099a77735731
+  - 0e07bc110728
   - 4f85da43b40c
   - b095c69eab5b
   - b0f07e3d6f07
@@ -539,6 +539,7 @@ tools:
 - name: compleasm
   owner: iuc
   revisions:
+  - 0b833dc20f00
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
