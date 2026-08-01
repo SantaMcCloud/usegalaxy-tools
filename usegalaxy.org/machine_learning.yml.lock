@@ -88,6 +88,7 @@ tools:
   - 980bf31faa05
   - 9991c4ddde14
   - b237f27a8afc
+  - b6c2289292fa
   - ce00f1cccb03
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -120,6 +121,7 @@ tools:
   - 9b6faa256f15
   - c51571d0a0b1
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
