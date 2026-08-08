@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 8c2167481e72
@@ -195,6 +196,7 @@ tools:
   - 340bc17f49cf
   - 388dbecbf03b
   - 5be72b7648fa
+  - 6fb81bb0fe3e
   - 75405f5e2cc5
   - 7bb235ff0746
   - 85fb02c43042
@@ -231,6 +233,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -432,6 +435,7 @@ tools:
   owner: iuc
   revisions:
   - 1b52f0c8ad7f
+  - c8faf125cfa3
   - d6c074a93c51
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -650,6 +654,7 @@ tools:
 - name: teloscope
   owner: iuc
   revisions:
+  - 31f96c801f61
   - 321ceb58023e
   - 6c1cfce7c2eb
   tool_panel_section_id: assembly
