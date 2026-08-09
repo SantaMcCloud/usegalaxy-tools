@@ -8,11 +8,13 @@ tools:
   revisions:
   - 1a13e87462a0
   - 7f656fb2e7b6
+  - 9d4d7f37ba01
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__demux__emp_paired
   owner: q2d2
   revisions:
+  - 14b64f3aecc0
   - 8edb4dc16d6e
   - 9f0c454cfc67
   tool_panel_section_id: qiime_2
@@ -49,6 +51,7 @@ tools:
   owner: q2d2
   revisions:
   - 40c226302c86
+  - 92bb3663bb96
   - 9857be21dcaf
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
@@ -76,6 +79,7 @@ tools:
 - name: qiime2__diversity__alpha_group_significance
   owner: q2d2
   revisions:
+  - 6698547705c9
   - 6c0a2e0d1c9e
   - 96988c25ca01
   tool_panel_section_id: qiime_2
