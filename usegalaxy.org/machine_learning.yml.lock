@@ -269,6 +269,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 7366e5108e9f
   - 7614281473da
   - b07416ec8d16
@@ -296,6 +297,7 @@ tools:
 - name: sklearn_numeric_clustering
   owner: bgruening
   revisions:
+  - 1bdac8249aa1
   - 1dd433d2c92c
   - 2d7c60aa6c62
   - 73e7f1c76ece
@@ -311,6 +313,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 1682df52c084
   - 1a53edc4b438
