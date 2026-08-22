@@ -11,6 +11,7 @@ tools:
   - 871957823d0c
   - 975512caae22
   - a92f200d296e
+  - baa13bb4cdcc
   - de753cf07008
   - ed2fefc8d892
   tool_panel_section_id: machine_learning
@@ -33,6 +34,7 @@ tools:
   owner: goeckslab
   revisions:
   - 01e7c5481f13
+  - 06ef6f6ebfb1
   - 0afd970bd8ae
   - 11fdac5affb3
   - 15707141e7da
@@ -129,6 +131,7 @@ tools:
   - 0dc3027df8f4
   - 305c1229ac99
   - 3814a92c1416
+  - 3b8fa4ea9727
   - 4a5266c96889
   - 508ce0649bec
   - 61b2d8f8811e
@@ -203,6 +206,7 @@ tools:
   - 02d2be90dedb
   - 0630258dcf35
   - 14fa42b095c4
+  - 4aa3666b66fa
   - 6d23883e0b94
   - 73d2ef652879
   - 80852884053f
@@ -218,6 +222,7 @@ tools:
   revisions:
   - 0f460421b212
   - 1fe020b2108f
+  - 6cf2a66c46f1
   - 7068b5fcd623
   - 7c2e71e4acf3
   - ab2c393080f9
@@ -243,6 +248,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
