@@ -97,6 +97,7 @@ tools:
 - name: qiime2__feature_classifier__classify_sklearn
   owner: q2d2
   revisions:
+  - 6131ad924c9d
   - 771d8be25d7a
   - b5ea3e026b8b
   tool_panel_section_id: qiime_2
