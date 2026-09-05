@@ -163,6 +163,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
