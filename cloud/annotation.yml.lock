@@ -14,6 +14,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
@@ -31,6 +32,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -38,6 +40,7 @@ tools:
   owner: iuc
   revisions:
   - 1942e86e2ee1
+  - 292eea8defa7
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: repeatmodeler
@@ -50,6 +53,7 @@ tools:
 - name: repeat_masker
   owner: bgruening
   revisions:
+  - 31763a56f1d7
   - ba6d2c32f797
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -58,6 +62,7 @@ tools:
   revisions:
   - 3f3e247c053d
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: busco
