@@ -28,6 +28,7 @@ tools:
   - 64be1ac21109
   - 8b8a3f793f0f
   - 9553180705b7
+  - b250b3058cbb
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -164,6 +165,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -171,6 +173,7 @@ tools:
 - name: cat_prepare
   owner: iuc
   revisions:
+  - 1ab4a7c40daa
   - 51906c8c692a
   - 8315b5cebb82
   - a40bbd70b8b1
@@ -258,6 +261,7 @@ tools:
   - 7136e9ab70db
   - 7f3b59dee073
   - 7f8f0e9fcb37
+  - a6ceb91124fa
   - b6dddf8c2e6f
   - efe26de231ec
   tool_panel_section_id: metagenomic_analysis
@@ -287,6 +291,7 @@ tools:
   - 47198090501e
   - 6b4ddc3b64bd
   - 84fd33a60b35
+  - 9010b9e13dec
   - 96336c6a2bb7
   - b35a5e8ff0fe
   - f79565b12646
@@ -571,6 +576,7 @@ tools:
   - 22384d3d25f4
   - 23d6489e2604
   - 86dec4abcea8
+  - f4409b2e1501
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_sketch
@@ -684,6 +690,7 @@ tools:
   - 6000b8a8dd9d
   - 87064cb77a52
   - d1c93a32cb25
+  - f09a7ce2f629
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_biom
@@ -973,6 +980,7 @@ tools:
 - name: iphop_predict
   owner: ufz
   revisions:
+  - be0d13020aec
   - d357350b6da0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -992,6 +1000,13 @@ tools:
   owner: iuc
   revisions:
   - b0dbddc7a288
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: cami_amber_convert
+  owner: iuc
+  revisions:
+  - 848594e0be6a
+  - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber_convert

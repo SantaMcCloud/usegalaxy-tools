@@ -249,6 +249,7 @@ tools:
   revisions:
   - 9b520009db81
   - 9b8feb118f9e
+  - f66e109710bd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_tag
@@ -312,6 +313,7 @@ tools:
   owner: iuc
   revisions:
   - 36677f429310
+  - 37c8eb55315d
   - 65a38e8c8e2a
   - 740ce0a18f0d
   - 8890e2d4c068
@@ -391,6 +393,7 @@ tools:
   owner: iuc
   revisions:
   - 2fe966f8532e
+  - 4413217d872c
   - 5854d0da92b4
   - b1a8d09e5a82
   tool_panel_section_id: sam_bam

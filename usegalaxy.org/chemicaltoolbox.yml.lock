@@ -531,6 +531,7 @@ tools:
   owner: bgruening
   revisions:
   - 274193d6c443
+  - 64e2c5ab51cb
   - 985ab0acd514
   tool_panel_section_id: chemicaltoolbox
   tool_panel_section_label: ChemicalToolBox
