@@ -7,6 +7,7 @@ tools:
   owner: bgruening
   revisions:
   - 10301d137111
+  - 43b85f471fe2
   - 6662b1a8d326
   - aac8444d6681
   - c361b12d207a
@@ -178,6 +179,7 @@ tools:
 - name: deeptools_bigwig_average
   owner: bgruening
   revisions:
+  - 3c478e39df6a
   - 4a53856a5b85
   - f6f246438eda
   tool_panel_section_id: deeptools
