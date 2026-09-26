@@ -54,6 +54,7 @@ tools:
   - 33c0ca93f3ee
   - 8242376d9f35
   - aa252eec9229
+  - ba20f926a460
   - d2b82d89f848
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
@@ -128,6 +129,7 @@ tools:
   - 821062fc5782
   - b77023c41c76
   - bf32ae95a06f
+  - e9fa79966366
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: camera_annotate
@@ -137,6 +139,7 @@ tools:
   - 4b9ab71be05e
   - 512c2b701d96
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_export_samplemetadata
