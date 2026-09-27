@@ -66,6 +66,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - bfab6f5b449d
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -105,6 +106,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - e5e767089163
   tool_panel_section_id: assembly
@@ -129,6 +131,7 @@ tools:
   - 36ce83a739f2
   - 408ece2e4647
   - 936a1edffce8
+  - 9491362ac1cd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: purge_dups
