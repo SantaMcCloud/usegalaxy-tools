@@ -55,6 +55,7 @@ tools:
 - name: vegan_diversity
   owner: iuc
   revisions:
+  - 7a3dbbe68c1a
   - a1b80a746054
   - a2c047a2c380
   tool_panel_section_id: metagenomic_analysis
@@ -164,6 +165,7 @@ tools:
   owner: iuc
   revisions:
   - 21bf2f07f3f3
+  - 775131a4d84b
   - 8dfc90f35aba
   - acd9fe45eb81
   tool_panel_section_id: metagenomic_analysis
@@ -188,6 +190,7 @@ tools:
   owner: iuc
   revisions:
   - 388e6678fa98
+  - 7a53f2e3fb9d
   - 7f1aaa1932d8
   - a8216def322b
   tool_panel_section_id: metagenomic_analysis
@@ -327,6 +330,7 @@ tools:
   revisions:
   - 0b884b080bb6
   - 1d75bd0595e2
+  - 2495262244bd
   - 273b8a00c8a2
   - 306a40d4bb8f
   - 35176674168c
@@ -684,6 +688,7 @@ tools:
   - 6000b8a8dd9d
   - 87064cb77a52
   - d1c93a32cb25
+  - f09a7ce2f629
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: phyloseq_from_biom
@@ -692,6 +697,7 @@ tools:
   - 04ba1fa0fe57
   - 05e985e0decf
   - 847f433f202b
+  - ac3cb54afbd0
   - b6a38f6222af
   - c0101c72b8af
   tool_panel_section_id: metagenomic_analysis
@@ -739,6 +745,7 @@ tools:
   owner: iuc
   revisions:
   - 027297969224
+  - bb45f97b9579
   - bcb8dc01f296
   - f23a0598b4bc
   tool_panel_section_id: metagenomic_analysis
@@ -781,6 +788,7 @@ tools:
   - 0ea86ba426e1
   - 19e4e2d98ebb
   - 98731fd340c5
+  - c7dddac32efc
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_taxon_set
@@ -876,6 +884,7 @@ tools:
   owner: iuc
   revisions:
   - 20ccec4a2c38
+  - 28b4b21d6aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: concoct_extract_fasta_bins
@@ -973,6 +982,7 @@ tools:
 - name: iphop_predict
   owner: ufz
   revisions:
+  - be0d13020aec
   - d357350b6da0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -992,6 +1002,13 @@ tools:
   owner: iuc
   revisions:
   - b0dbddc7a288
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: cami_amber_convert
+  owner: iuc
+  revisions:
+  - 848594e0be6a
+  - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber_convert

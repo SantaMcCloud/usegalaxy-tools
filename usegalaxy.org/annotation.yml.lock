@@ -9,6 +9,7 @@ tools:
   - 111884f0d912
   - 8a22554cdde2
   - bf68eb663bc3
+  - c105b66eaab1
   - eaee459f3d69
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -19,6 +20,7 @@ tools:
   - 4efdca267d51
   - b734db305578
   - c2ef298da409
+  - d8b0de0554a9
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: augustus
@@ -143,6 +145,7 @@ tools:
   revisions:
   - 637ec5d5368c
   - 96e6283e4745
+  - b7e91ff1a894
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: jcvi_gff_stats
@@ -207,8 +210,8 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
-  - 0e07bc110728
   - 099a77735731
+  - 0e07bc110728
   - 4f85da43b40c
   - b095c69eab5b
   - b0f07e3d6f07
@@ -493,6 +496,7 @@ tools:
   owner: bgruening
   revisions:
   - 1ac12c0cc7a0
+  - 4594ca417b13
   - 7ccc6234b54e
   - 8e9e228c54c4
   tool_panel_section_id: annotation
@@ -534,6 +538,7 @@ tools:
   owner: iuc
   revisions:
   - 7844dbe4f8e2
+  - 96112e4c5e26
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: compleasm
