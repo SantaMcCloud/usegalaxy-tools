@@ -56,6 +56,7 @@ tools:
   owner: bgruening
   revisions:
   - 01fb6a7654e6
+  - 3d5024351691
   - 78f405266706
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
@@ -64,6 +65,7 @@ tools:
   revisions:
   - 137c4beed34b
   - 3c9f0c486cca
+  - ec28c2928823
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_correlation
@@ -111,6 +113,7 @@ tools:
 - name: deeptools_plot_profile
   owner: bgruening
   revisions:
+  - 43b85f471fe2
   - 6662b1a8d326
   - c361b12d207a
   tool_panel_section_id: deeptools
