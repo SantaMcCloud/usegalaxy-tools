@@ -13,6 +13,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 263af8401aed
   - 822954de3f59
   - b8c00ce5dfa0
   - d5887ace0dd4
@@ -49,6 +50,7 @@ tools:
   - 1b1cf0c96501
   - 72472698a2df
   - a3b35edea53a
+  - cbc516cee202
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: megahit
@@ -105,6 +107,7 @@ tools:
 - name: hifiasm
   owner: bgruening
   revisions:
+  - 09cf7b520734
   - 5d365d5cbe9d
   - e5e767089163
   tool_panel_section_id: assembly

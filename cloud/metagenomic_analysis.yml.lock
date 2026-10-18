@@ -123,6 +123,7 @@ tools:
   revisions:
   - 8345d273ba82
   - c3735bcc9cb8
+  - dcbbec865b86
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_genome
@@ -171,6 +172,7 @@ tools:
   owner: iuc
   revisions:
   - 4e469b758915
+  - d000854331fe
   - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -192,6 +194,7 @@ tools:
   owner: iuc
   revisions:
   - 47198090501e
+  - 9010b9e13dec
   - b35a5e8ff0fe
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
