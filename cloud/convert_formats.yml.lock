@@ -12,6 +12,7 @@ tools:
 - name: tooldistillator
   owner: iuc
   revisions:
+  - 4ac5179f245c
   - 9f1c8dc0253e
   - a5ef8d31c40e
   - c6b5c2975e51

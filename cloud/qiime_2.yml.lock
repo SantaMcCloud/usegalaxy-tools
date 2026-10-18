@@ -36,6 +36,7 @@ tools:
   revisions:
   - 1601b340fb81
   - 354f63459d37
+  - e8bc729e0118
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__feature_table__tabulate_seqs
@@ -49,12 +50,14 @@ tools:
   owner: q2d2
   revisions:
   - 40c226302c86
+  - 92bb3663bb96
   - 9857be21dcaf
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__feature_table__summarize
   owner: q2d2
   revisions:
+  - 41e9af5ca46b
   - 4d8369756ee6
   - d0f2249afe30
   tool_panel_section_id: qiime_2
@@ -62,6 +65,7 @@ tools:
 - name: qiime2__dada2__denoise_paired
   owner: q2d2
   revisions:
+  - 569b33f54ed0
   - 933b92011b91
   - ff047d5ca265
   tool_panel_section_id: qiime_2
