@@ -207,8 +207,8 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
-  - 0e07bc110728
   - 099a77735731
+  - 0e07bc110728
   - 4f85da43b40c
   - b095c69eab5b
   - b0f07e3d6f07
@@ -387,6 +387,7 @@ tools:
   owner: iuc
   revisions:
   - 53b22b7dff19
+  - 5a98e780fe72
   - 945b31d82638
   - c0a0e79d7196
   - c5f2ce99da69
@@ -541,6 +542,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - fc7334661489
   tool_panel_section_id: annotation
@@ -615,6 +617,7 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - cfe8742b704e
   - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
