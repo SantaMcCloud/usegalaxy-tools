@@ -76,6 +76,7 @@ tools:
 - name: qiime2__diversity__alpha_group_significance
   owner: q2d2
   revisions:
+  - 6698547705c9
   - 6c0a2e0d1c9e
   - 96988c25ca01
   tool_panel_section_id: qiime_2
@@ -105,6 +106,7 @@ tools:
   owner: q2d2
   revisions:
   - 3da2f87501ee
+  - 3fa5e4d759dc
   - d29295070ccd
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
@@ -112,6 +114,7 @@ tools:
   owner: q2d2
   revisions:
   - 22bfda174157
+  - 3a8c645430a2
   - 6d56299524df
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
