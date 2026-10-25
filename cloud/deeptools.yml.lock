@@ -105,12 +105,14 @@ tools:
   owner: bgruening
   revisions:
   - 0e49b109abc2
+  - 7dcc58a57476
   - bb1e4f63e0e6
   tool_panel_section_id: deeptools
   tool_panel_section_label: deepTools
 - name: deeptools_plot_profile
   owner: bgruening
   revisions:
+  - 43b85f471fe2
   - 6662b1a8d326
   - c361b12d207a
   tool_panel_section_id: deeptools
