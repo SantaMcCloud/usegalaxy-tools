@@ -54,6 +54,7 @@ tools:
   - 3432a0e49b86
   - 350c736075eb
   - 480ddbd12a03
+  - 4990e6f1348f
   - 65b93b623c77
   - a626e8c0e1ba
   - c59d48774d03
@@ -156,6 +157,7 @@ tools:
 - name: fastq_paired_end_interlacer
   owner: devteam
   revisions:
+  - 060e4a536555
   - 2ccb8dcabddc
   - 3e396e702cea
   - acb5090e281f
@@ -189,6 +191,7 @@ tools:
 - name: seqkit_split2
   owner: iuc
   revisions:
+  - 0a429822c6a5
   - 22a535d54360
   - 911de3a36b31
   - c19015f577a5

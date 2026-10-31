@@ -21,6 +21,7 @@ tools:
   - 2c6624cae3c5
   - 8729f69e9207
   - 94cd9ac4a9b1
+  - a2e4242653ec
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
@@ -37,6 +38,7 @@ tools:
   - 11fdac5affb3
   - 15707141e7da
   - 209b663a4f62
+  - 2c0dae52bcca
   - 49f73a3c12f3
   - 4bd75b45a7a1
   - ba45bc057d70
@@ -84,6 +86,7 @@ tools:
   - 60c726f5cc5e
   - 65820fb7257b
   - 83228baae3c5
+  - 8ef3ef591dc8
   - 948eca2af157
   - 980bf31faa05
   - 9991c4ddde14
@@ -105,6 +108,7 @@ tools:
   - b9906ce4756c
   - bedbda03c573
   - f22a9297440f
+  - fb731872d453
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_model_builder
@@ -155,6 +159,7 @@ tools:
   - 1b68acd5ac08
   - 443471b0a27a
   - 4d1637cac794
+  - 724f4328af54
   - 8b822484debc
   - adf9f8d5ab9a
   - bde62c243b7e
@@ -259,6 +264,7 @@ tools:
   - 97dce66fe158
   - 9c3e1d3235c8
   - b1eda492f063
+  - bf5b6f5a18ed
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_pairwise_metrics
@@ -367,6 +373,7 @@ tools:
   - adc6137e7c73
   - ae69f6918abe
   - c8547d3993c0
+  - d0f0767072b2
   - daaa56720686
   - e54382561bd4
   - e9821a426d75
@@ -486,6 +493,7 @@ tools:
   - 1588f9076e32
   - 222c02df5d55
   - 4a229a7ad638
+  - 553b147da4e9
   - 6fabdcde0214
   - 8334dc98c48e
   - a536d2736c2d
