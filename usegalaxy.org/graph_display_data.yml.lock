@@ -74,6 +74,7 @@ tools:
   - 53460afd5115
   - '566197475670'
   - 6a097d09fca3
+  - 94f3fd9ade04
   - ca7cb0eaad62
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -125,6 +126,7 @@ tools:
 - name: taxonomy_krona_chart
   owner: crs4
   revisions:
+  - 01a54504b6aa
   - e9005d1f3cfd
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -145,6 +147,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -161,6 +164,7 @@ tools:
 - name: fasta_nucleotide_color_plot
   owner: iuc
   revisions:
+  - 0c8cba9badcf
   - e4b5401adcec
   tool_panel_section_id: graph_display_data
   tool_panel_section_label: Graph/Display Data
@@ -170,6 +174,7 @@ tools:
   - 10515715c940
   - 15cebddc6dba
   - 1a72f938213e
+  - 28320e68ff9f
   - 3d059e9c2fba
   - a4d83ba2a1bc
   - d3a9e32672ec
@@ -206,6 +211,7 @@ tools:
 - name: ggplot2_point
   owner: iuc
   revisions:
+  - 1336484a4e6b
   - 1acf88921176
   - 299307abd804
   - 3b12bf9b4b87
@@ -226,6 +232,7 @@ tools:
   - 637cf21db396
   - 63d211052ffb
   - 9c52a8130729
+  - aa4edc1c6f6c
   - d6c41b454cc1
   - d8305f18060e
   - e44775efb2dc
@@ -235,6 +242,7 @@ tools:
   owner: iuc
   revisions:
   - 6e8eb0c0d91f
+  - 703c11e9e432
   - 8f62f666dcb6
   - a490b70e46fc
   tool_panel_section_id: graph_display_data
@@ -324,6 +332,7 @@ tools:
   revisions:
   - 11c344627e52
   - 2f557f6abbfb
+  - 3d5b9e4df7ba
   - 5e08a1e22dbc
   - 73b8cb5bddcd
   - 83c573f2e73c

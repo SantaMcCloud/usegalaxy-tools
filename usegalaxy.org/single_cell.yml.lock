@@ -16,6 +16,7 @@ tools:
   - 6f5349dd5c49
   - 70fa84e99463
   - 7647e5cd1b8b
+  - 7f478b3258ec
   - 95777145cb92
   - 9a169729c9f9
   - 9b0cdb8cf6be
@@ -132,6 +133,7 @@ tools:
   - 32c5c85cbc12
   - 7a6655aa6eb2
   - 83609ef746e9
+  - 87d9511249cf
   - 8b9bf8b5157a
   - c0b037b12765
   - c5ac926c838f
@@ -226,6 +228,7 @@ tools:
   - 7608d5faee41
   - 8b917923f7d4
   - b83fbc90161e
+  - b9712ed9c027
   - d45f092caf24
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -497,6 +500,7 @@ tools:
   owner: iuc
   revisions:
   - 5c9b16bdbd5e
+  - 9e80ebd12099
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: retrieve_scxa
@@ -568,6 +572,7 @@ tools:
   revisions:
   - d0f56ac6bb60
   - d1b34ac42b8f
+  - e188e2c2598b
   - fb61eb03e313
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -692,6 +697,7 @@ tools:
 - name: seurat_clustering
   owner: iuc
   revisions:
+  - 110994732ae2
   - 51eb02d9b17a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -705,12 +711,14 @@ tools:
   owner: iuc
   revisions:
   - 4ec52a83ec82
+  - bae409fc946d
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_integrate
   owner: iuc
   revisions:
   - 74fa68f4e579
+  - ade6d8b67576
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_plot

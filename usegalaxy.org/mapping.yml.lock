@@ -6,6 +6,7 @@ tools:
 - name: bioext_bealign
   owner: iuc
   revisions:
+  - 10f185ef7aee
   - 396cc0c65700
   - 4ad7321205c9
   - 8a7462c0ac14
@@ -25,6 +26,7 @@ tools:
   - 09b2cdb7ace5
   - 0d4acadabb04
   - 749c918495f7
+  - a470b376503d
   - c3dd1aeb7d07
   - d5ceb9f3c25b
   - f6877ad76b00
@@ -38,6 +40,7 @@ tools:
   - 37b497aa133f
   - 3e1ea2facca6
   - 48d39ee9eb30
+  - bf107d23242b
   - e7f19d6a9af8
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -47,6 +50,7 @@ tools:
   - 01ac0a5fedc3
   - 1dfc975b48d5
   - 2477830927ec
+  - 2e9f2d3d1b39
   - 3fe632431b68
   - 64f11cf59c6e
   - e188dc7a68e6
@@ -56,6 +60,7 @@ tools:
   owner: iuc
   revisions:
   - 04b73d626680
+  - 12281c334d02
   - 137942fac417
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -110,6 +115,7 @@ tools:
   - 66367287b4e6
   - 6945cd53bd2d
   - 77b2770508f6
+  - 7a6382582d76
   - 8c6cd2650d1f
   - 92678fcb1a5f
   - b3eab4b67562
@@ -168,6 +174,7 @@ tools:
   - 95e9d34c4cad
   - 9ed6579f52f3
   - b394de3cf6e8
+  - d758d31ec054
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: metilene
@@ -183,6 +190,7 @@ tools:
   - 090cbf2cb339
   - 371e4e21d5de
   - 544ea81a6914
+  - 992d8a5d3d62
   - c64bee2dc319
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
@@ -260,6 +268,7 @@ tools:
   owner: iuc
   revisions:
   - 1999f87602f7
+  - 595b7f566734
   - a28010c3ac9b
   - d2039064b27d
   tool_panel_section_id: mapping
@@ -270,6 +279,7 @@ tools:
   - 128ec4c44111
   - 5c3fa42d003f
   - 728e3b913fbe
+  - 94ba8d8079e1
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_chainantirepeat
@@ -277,6 +287,7 @@ tools:
   revisions:
   - 91674d4623a8
   - 9f2d2c96a189
+  - ca3572fb1eab
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: ucsc_netchainsubset
