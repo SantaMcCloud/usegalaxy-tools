@@ -28,6 +28,7 @@ tools:
 - name: bfconvert
   owner: imgteam
   revisions:
+  - f0242f99a175
   - fcadded98e61
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
@@ -123,6 +124,7 @@ tools:
 - name: points_association_nn
   owner: imgteam
   revisions:
+  - e7d22ed256f3
   - f3fad67af22c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging

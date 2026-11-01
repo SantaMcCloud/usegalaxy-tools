@@ -36,6 +36,7 @@ tools:
   revisions:
   - 1601b340fb81
   - 354f63459d37
+  - e8bc729e0118
   tool_panel_section_id: qiime_2
   tool_panel_section_label: QIIME 2
 - name: qiime2__feature_table__tabulate_seqs
