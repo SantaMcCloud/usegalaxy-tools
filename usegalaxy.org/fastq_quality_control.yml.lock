@@ -37,6 +37,7 @@ tools:
   - 3d93dd18d9f8
   - 5e33b465d8d5
   - 75c93c70d094
+  - 94b6bea727ae
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -70,6 +71,7 @@ tools:
   revisions:
   - 21796f46e0ba
   - 751878fa37e5
+  - 81718e0eba05
   - ad116ae3f4d9
   - b6b54ba71bd8
   tool_panel_section_id: fastq_quality_control

@@ -62,6 +62,35 @@ tools:
   revisions:
   - 37125838e360
   - 40fee49bc6c3
+  - 90d52ca89318
+  - c4ed35f4f77f
+  - f881c94fb3b3
+  tool_panel_section_id: hicexplorer
+  tool_panel_section_label: HiCExplorer
+- name: hicexplorer_chicqualitycontrol
+  owner: bgruening
+  revisions:
+  - 9ea228a9afc8
+  - a63e9713c39d
+  - b892fa1fcaec
+  - f6a169b5e43b
+  tool_panel_section_id: hicexplorer
+  tool_panel_section_label: HiCExplorer
+- name: hicexplorer_chicsignificantinteractions
+  owner: bgruening
+  revisions:
+  - 45a386d18509
+  - 640e0e45518a
+  - f8320df1866b
+  - ff1af7bac1cb
+  tool_panel_section_id: hicexplorer
+  tool_panel_section_label: HiCExplorer
+- name: hicexplorer_chicviewpoint
+  owner: bgruening
+  revisions:
+  - 37125838e360
+  - 40fee49bc6c3
+  - 90d52ca89318
   - c4ed35f4f77f
   - f881c94fb3b3
   tool_panel_section_id: hicexplorer
@@ -73,6 +102,7 @@ tools:
   - 9d02f1819e81
   - c354255ff705
   - f963c251ac77
+  - fdb67db6d500
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicadjustmatrix
@@ -89,6 +119,7 @@ tools:
   revisions:
   - 30677e95bc89
   - 63c8377c58b3
+  - 9c004f11ebe4
   - b05f662f9f35
   - f0216498a666
   tool_panel_section_id: hicexplorer
@@ -205,6 +236,7 @@ tools:
   owner: bgruening
   revisions:
   - 51e40e9b6c3c
+  - 58293f858e2d
   - 7fbd6feba1ca
   - b0f33533181d
   - e4f8fceab96a
@@ -280,6 +312,7 @@ tools:
   - 11f39d7f6c64
   - 6326cd29c1c3
   - 89cfe7de541b
+  - 9f0578013f9b
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
 - name: hicexplorer_hicplotmatrix
@@ -288,6 +321,7 @@ tools:
   - 025a128652dc
   - 12d51d7be66f
   - b63363075c2e
+  - eb3a1b9a1c3c
   - f741330d4a71
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -306,6 +340,7 @@ tools:
   - 58de3c7c8e89
   - 8d203e74869b
   - a10fce08c2dc
+  - bb9e080ae77b
   - e285920f8585
   tool_panel_section_id: hicexplorer
   tool_panel_section_label: HiCExplorer
@@ -344,6 +379,7 @@ tools:
   revisions:
   - 1de2276f633f
   - 27fe5cd1729c
+  - a4b4bb07ed14
   - df64cc4dfb4d
   - f36828ebdc54
   tool_panel_section_id: hicexplorer

@@ -35,6 +35,7 @@ tools:
   - 7594365c546b
   - 875d0f36d66f
   - a3b35edea53a
+  - baeffe7bfe47
   - ebb0dcdb621a
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -279,6 +280,7 @@ tools:
   - 6505bd37670d
   - 71740308d412
   - 9ef6920c3089
+  - b562f08eb13a
   - bf0a4667e3ce
   - df25d4fb79b7
   - e5e767089163
@@ -426,6 +428,7 @@ tools:
   revisions:
   - 015283de3004
   - 24e471d13fe9
+  - 806d8eeb716b
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: aegean_parseval
@@ -438,6 +441,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 99ddbf037d98
   - bfab6f5b449d
   tool_panel_section_id: assembly
@@ -463,6 +467,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -609,6 +614,7 @@ tools:
   revisions:
   - 3e5642ac5620
   - b897c5daf0ce
+  - d9e75105c19f
   - e1954bd8bde9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
