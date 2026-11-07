@@ -16,6 +16,7 @@ tools:
   owner: iuc
   revisions:
   - 097b44ff88db
+  - 762e843c1830
   - 967b96c6005a
   - aa3554e51549
   - ef917c03493c
@@ -108,6 +109,7 @@ tools:
   revisions:
   - 0b4bd722367d
   - 40102188d44e
+  - 47bf52277e6d
   - b401018e0614
   - fa4cf8d895f4
   tool_panel_section_id: presto
