@@ -91,6 +91,7 @@ tools:
   revisions:
   - 6926716bbfb5
   - d080005cffe1
+  - df40fefcc676
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: deg_annotate
