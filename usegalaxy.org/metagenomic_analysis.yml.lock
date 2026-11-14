@@ -28,6 +28,7 @@ tools:
   - 64be1ac21109
   - 8b8a3f793f0f
   - 9553180705b7
+  - ad7226fac56d
   - e8ac2b53f262
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -111,6 +112,7 @@ tools:
   - 6ef0b5664c69
   - a3b86937ead6
   - ab9350a8ab4d
+  - c4a507fed537
   - dad9da48a09a
   - e3cbd2287f63
   tool_panel_section_id: metagenomic_analysis
@@ -188,6 +190,7 @@ tools:
   owner: iuc
   revisions:
   - 388e6678fa98
+  - 7a53f2e3fb9d
   - 7f1aaa1932d8
   - a8216def322b
   tool_panel_section_id: metagenomic_analysis
@@ -301,6 +304,7 @@ tools:
   - 5fe3edf19b9c
   - 75403243703a
   - 8c202e741d68
+  - 9e5c3d358b2c
   - a14a18a47c36
   - afdfa35a89d9
   - c48d42d65d2b
@@ -364,6 +368,7 @@ tools:
   owner: iuc
   revisions:
   - 5a0fa29951ae
+  - 6bae4a2f6d31
   - 8388fe31d604
   - b7429b53be2a
   - e562293ee5ec
@@ -521,6 +526,7 @@ tools:
   revisions:
   - 1a037928504c
   - 1a6cdf55390f
+  - 1f688befbcdf
   - 289b3807e80c
   - 56ff60ec416d
   - 740fd2d16a28
@@ -579,6 +585,7 @@ tools:
   - 3852f36e3154
   - 43f9ca23c132
   - 9de5319ad2db
+  - caa5e069998c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_dist
@@ -627,6 +634,7 @@ tools:
 - name: recentrifuge
   owner: iuc
   revisions:
+  - 2ef21eba2d01
   - 591175c0f051
   - 612df2a5054f
   - 613ee22af97c
@@ -712,6 +720,7 @@ tools:
   - 10a7732528b2
   - 7ed99cb39c9d
   - '817853857084'
+  - 83c8e8560d8f
   - d6cbeb48294d
   - fb7c4bbe8994
   tool_panel_section_id: metagenomic_analysis
@@ -747,6 +756,7 @@ tools:
   owner: iuc
   revisions:
   - '482705438671'
+  - 504a555b2bfb
   - 8345d273ba82
   - c3735bcc9cb8
   tool_panel_section_id: metagenomic_analysis
@@ -754,6 +764,7 @@ tools:
 - name: checkm_lineage_set
   owner: iuc
   revisions:
+  - 2aa4779e108b
   - 3693acdbf0d6
   - 3f32eb89d482
   - a32ee0bb028b
@@ -826,6 +837,7 @@ tools:
 - name: ampvis2_load
   owner: iuc
   revisions:
+  - 05d7672c6bed
   - 3481feabc54e
   - 5029fd9d572e
   - 738474880da8
@@ -909,6 +921,7 @@ tools:
 - name: drep_dereplicate
   owner: iuc
   revisions:
+  - 0ae93aa4f8fe
   - 76b57044069d
   - d730086e1432
   - f54e7b3da33c
@@ -918,6 +931,7 @@ tools:
   owner: iuc
   revisions:
   - 73b667038f46
+  - c91014de79d2
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: coverm_contig
@@ -973,6 +987,7 @@ tools:
 - name: iphop_predict
   owner: ufz
   revisions:
+  - be0d13020aec
   - d357350b6da0
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -992,6 +1007,13 @@ tools:
   owner: iuc
   revisions:
   - b0dbddc7a288
+  tool_panel_section_id: metagenomic_analysis
+  tool_panel_section_label: Metagenomic Analysis
+- name: cami_amber_convert
+  owner: iuc
+  revisions:
+  - 848594e0be6a
+  - fac3911ad3b6
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: cami_amber_convert

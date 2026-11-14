@@ -54,6 +54,7 @@ tools:
   - 3432a0e49b86
   - 350c736075eb
   - 480ddbd12a03
+  - 4990e6f1348f
   - 65b93b623c77
   - a626e8c0e1ba
   - c59d48774d03
@@ -123,12 +124,14 @@ tools:
   revisions:
   - 0b7ec11b3c7c
   - 229caeddb2df
+  - 456be35b3f1b
   - 4bedca26c133
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastx_artifacts_filter
   owner: devteam
   revisions:
+  - 016529f651dc
   - 34edfa69c149
   - 529bccd5e4a1
   - 567d5b3c52b1
@@ -148,6 +151,7 @@ tools:
   revisions:
   - 09a2199cd356
   - 115f6bb3ae79
+  - 791e195810ad
   - 822cc1e6274e
   - 8d958759cf2a
   - c885369b207b
@@ -257,6 +261,7 @@ tools:
   owner: bgruening
   revisions:
   - 084bbd8ba7b8
+  - 7462caed7065
   - 949f01671246
   - b94789823aad
   - cd7e644cae1d

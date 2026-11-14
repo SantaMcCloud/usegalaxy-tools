@@ -7,6 +7,7 @@ tools:
   owner: iuc
   revisions:
   - 27673f5b5343
+  - 28e85c2ef178
   - 359e043a285c
   - 767943cd85bf
   - 7ecb45126cd2
@@ -85,6 +86,7 @@ tools:
   - 43807a65369f
   - 4b347702c4aa
   - 614a63f14adf
+  - 9af11085c5c6
   - ccf4e1d1fcbe
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
@@ -288,6 +290,7 @@ tools:
 - name: ucsc_maftoaxt
   owner: iuc
   revisions:
+  - 3191e6dd3a23
   - 3a4256d4f079
   - a6540beef35f
   - bb486fb0103d
@@ -308,6 +311,7 @@ tools:
   - 3c19c84fbce2
   - 98c227b9be71
   - a40dd4fd3096
+  - c8eefc6bf631
   - d9965e143053
   tool_panel_section_id: convert_formats
   tool_panel_section_label: Convert Formats
