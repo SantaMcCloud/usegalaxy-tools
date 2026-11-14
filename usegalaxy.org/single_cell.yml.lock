@@ -74,6 +74,7 @@ tools:
   - 5342ce58cd1e
   - 56c0d4acef02
   - 7b9fafe32c86
+  - 9428a84a77bd
   - 94c19fb1281c
   - 9f354c7c8c92
   - a407e7f8bdc1
@@ -204,6 +205,7 @@ tools:
   owner: iuc
   revisions:
   - 2c1200fba922
+  - 2ee6ff4d70fc
   - a9caad671439
   - cdf4443d5625
   - cfe1e6c28d95
@@ -698,6 +700,7 @@ tools:
 - name: seurat_create
   owner: iuc
   revisions:
+  - ad302917ecb9
   - af8bdeb89691
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -729,5 +732,6 @@ tools:
   owner: iuc
   revisions:
   - 46ed93e8da30
+  - 8bde466e6171
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
