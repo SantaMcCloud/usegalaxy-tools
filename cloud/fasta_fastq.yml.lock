@@ -118,12 +118,14 @@ tools:
   owner: iuc
   revisions:
   - 1ee282794de3
+  - dbd2e239117c
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
 - name: fastqtofasta
   owner: devteam
   revisions:
   - 4a3e93647a4e
+  - 5e0a8c02887c
   - ac3fed111eb6
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -131,6 +133,7 @@ tools:
   owner: devteam
   revisions:
   - 516b97a23d7e
+  - 59a3ca730b16
   - e773f1eb16cf
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ
@@ -164,6 +167,7 @@ tools:
   revisions:
   - 37d67c252fed
   - aef1eea2058c
+  - df19b13caeb8
   - f109ce5dbfe2
   tool_panel_section_id: fasta_fastq
   tool_panel_section_label: FASTA/FASTQ

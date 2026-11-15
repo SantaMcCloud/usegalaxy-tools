@@ -64,6 +64,7 @@ tools:
   - 0cb889db0910
   - 707023fa62fe
   - 83609ef746e9
+  - 87d9511249cf
   - 8b9bf8b5157a
   - cfaf5a405371
   - e1c3c2f2a834
@@ -74,6 +75,7 @@ tools:
   owner: iuc
   revisions:
   - 3d748954434b
+  - 637e50759b72
   - 7e8c677a7b71
   - 9bd945a03d7b
   - be1fdce914c6
@@ -95,6 +97,7 @@ tools:
   - 0bf7fddf90c7
   - 286a24ac079c
   - 33c0081e16c6
+  - 3a9aee9e3551
   - 688357ad5e61
   - 6f0d0c784f09
   - 9301df6f892d
@@ -170,6 +173,7 @@ tools:
   revisions:
   - 2af7c5086a96
   - 2bfd55b87af3
+  - 51e0736263e4
   - 72979cac22b2
   - c92d0f9338c5
   tool_panel_section_id: single_cell
@@ -181,6 +185,7 @@ tools:
   - a6821f856a1e
   - c8434a623268
   - df8e4e54d367
+  - fb7906aa5791
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: alevin
@@ -219,6 +224,7 @@ tools:
   owner: iuc
   revisions:
   - 99f912d5af9f
+  - e3a9a42b4605
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_filter
@@ -226,6 +232,7 @@ tools:
   revisions:
   - 652923ce664f
   - b7ea9f09c02f
+  - ede400b28a58
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scater_normalize
@@ -257,6 +264,7 @@ tools:
 - name: scanpy_cluster_reduce_dimension
   owner: iuc
   revisions:
+  - 1744c9e24e38
   - 38db3fef7aad
   - 49ce1315722c
   - 8983e7a04ba7
@@ -268,6 +276,7 @@ tools:
 - name: scanpy_filter
   owner: iuc
   revisions:
+  - 460da6e084d4
   - 5813f9920877
   - 5b3c1679d29b
   - 64388be6d510
@@ -284,6 +293,7 @@ tools:
   - 3b5ef3b00cdd
   - c0a80a16560f
   - c5d3684f7c4c
+  - cc0596ccfa4c
   - d86cb2ce311b
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
@@ -293,6 +303,7 @@ tools:
   - 4766556db52c
   - 4bda4412b8c2
   - 56c0d4acef02
+  - 9428a84a77bd
   - 9f354c7c8c92
   - ab55fe8030b6
   - e639abb0de92

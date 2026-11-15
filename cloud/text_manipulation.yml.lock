@@ -14,6 +14,7 @@ tools:
 - name: query_tabular
   owner: iuc
   revisions:
+  - a8e9456dbead
   - cf34c344508d
   - cf4397560712
   tool_panel_section_id: text_manipulation
