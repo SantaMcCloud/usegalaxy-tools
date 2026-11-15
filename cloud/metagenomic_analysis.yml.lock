@@ -111,6 +111,7 @@ tools:
 - name: gtdbtk_classify_wf
   owner: iuc
   revisions:
+  - 199b07074e1f
   - 28bc8c01b193
   - 30a4bdf88e14
   - 53a019316350
@@ -178,6 +179,7 @@ tools:
   owner: iuc
   revisions:
   - 00e0347751b1
+  - ad574c1621ac
   - e8768ddeba32
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -226,6 +228,7 @@ tools:
 - name: dada2_assigntaxonomyaddspecies
   owner: iuc
   revisions:
+  - 1b8fda203803
   - 705d26fbea02
   - 9f306361a58e
   tool_panel_section_id: metagenomic_analysis
@@ -234,11 +237,13 @@ tools:
   owner: iuc
   revisions:
   - 9de5319ad2db
+  - caa5e069998c
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: mash_paste
   owner: iuc
   revisions:
+  - b761da3edc76
   - e0c0fda064eb
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis

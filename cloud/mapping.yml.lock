@@ -19,6 +19,7 @@ tools:
   owner: devteam
   revisions:
   - 09b2cdb7ace5
+  - a470b376503d
   - d5ceb9f3c25b
   - f76cbb84d67f
   tool_panel_section_id: mapping
@@ -56,6 +57,7 @@ tools:
   - 2055c2667eb3
   - 4014de1b6daf
   - 53255f6eecfc
+  - 6e8618432bea
   - 980d2a2e1180
   - b0f2be869d6d
   - c772497b2c32
