@@ -207,8 +207,8 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
-  - 0e07bc110728
   - 099a77735731
+  - 0e07bc110728
   - 4f85da43b40c
   - b095c69eab5b
   - b0f07e3d6f07
@@ -218,6 +218,7 @@ tools:
 - name: optitype
   owner: iuc
   revisions:
+  - 9615db65e2e7
   - fd974c5df8bc
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -233,6 +234,7 @@ tools:
   owner: iuc
   revisions:
   - 15ac71df11a0
+  - 3f12675edf68
   - 78608ec02d62
   - 809e42326fc2
   - 91887494eb97
@@ -364,6 +366,7 @@ tools:
   - 1eafcc450052
   - 65c38d020fea
   - eb35257d2e29
+  - f7746d145125
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: clinod
@@ -380,6 +383,7 @@ tools:
   revisions:
   - 1563b58905f4
   - 554aa2a63f04
+  - b0e8176203e1
   - fa7086274673
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -424,6 +428,7 @@ tools:
   - 52bd683c6d3f
   - 579538ff939d
   - cb0d9eb033ef
+  - ec5826d33185
   - eeb5c054ecf8
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -528,6 +533,7 @@ tools:
   revisions:
   - 20d725740701
   - 6b20d051d0dc
+  - fb8b3a37ac9c
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: amrfinderplus
@@ -541,6 +547,7 @@ tools:
   revisions:
   - 7109a27a11db
   - 8f20a5b9b282
+  - c8913c72ee87
   - cfec9601b25d
   - fc7334661489
   tool_panel_section_id: annotation

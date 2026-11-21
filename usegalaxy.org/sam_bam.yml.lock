@@ -249,6 +249,7 @@ tools:
   revisions:
   - 9b520009db81
   - 9b8feb118f9e
+  - f66e109710bd
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: bamtools_split_tag
@@ -359,6 +360,7 @@ tools:
   revisions:
   - 19ece8afbaab
   - 30a201c9c310
+  - 950ea24d0079
   - ac607906f10a
   - e7fd6754d093
   tool_panel_section_id: sam_bam
