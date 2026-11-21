@@ -102,6 +102,7 @@ tools:
   - cb43c5d3acd3
   - edec35114f72
   - f9353ee6a0d4
+  - f98417b9e414
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: scanpy_remove_confounders
@@ -255,6 +256,7 @@ tools:
   - 2af7c5086a96
   - 2bfd55b87af3
   - 44b935f2271b
+  - 51e0736263e4
   - 72979cac22b2
   - e93b008c637a
   tool_panel_section_id: single_cell
@@ -561,6 +563,7 @@ tools:
   owner: iuc
   revisions:
   - 29f5f25b9935
+  - 4f1baeda3aca
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: sinto_barcode
@@ -729,5 +732,6 @@ tools:
   owner: iuc
   revisions:
   - 46ed93e8da30
+  - 8bde466e6171
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
